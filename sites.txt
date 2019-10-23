@@ -1,9 +1,8 @@
 Sites
 
-Fox News
+Fox News (Politics)
 New York Post
 Breitbart
-AP
 NYT
 Washington Times
 Washington Post
@@ -11,12 +10,8 @@ LA Times
 LifeSite News
 Christian Post
 CNN
-MSNBC
-NBC News
-Bloomberg
 Fox Business
 CNBC
-HLN
 BBC
 Sky News
 The Atlantic
@@ -58,3 +53,4 @@ The Verge
 Engadget
 9to5Google
 9to5Mac
+Epoch Times
