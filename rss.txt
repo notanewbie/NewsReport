@@ -1,1 +1,64 @@
+Feeds
 
+Fox News (Politics)
+http://feeds.foxnews.com/foxnews/politics
+
+NYP News
+https://nypost.com/news/feed/
+
+NYP Opinion
+https://nypost.com/opinion/feed/
+
+NYP Tech
+https://nypost.com/tech/feed/
+
+Breitbart News
+https://feeds.feedburner.com/breitbart
+
+NYT
+https://rss.nytimes.com/services/xml/rss/nyt/US.xml
+
+Washington Times (Opinion)
+https://www.washingtontimes.com/rss/headlines/opinion/
+
+Washington Times (News)
+https://www.washingtontimes.com/rss/headlines/news/
+
+Washington Post (Opinion)
+http://feeds.washingtonpost.com/rss/opinions?tid=lk_inline_manual_4
+
+Washington Post (National)
+http://feeds.washingtonpost.com/rss/national?tid=lk_inline_manual_11
+
+LA Times (Politics)
+https://www.latimes.com/politics/rss2.0.xml
+
+LA Times (Opinion)
+https://www.latimes.com/opinion/rss2.0.xml
+
+LifeSite News
+https://www.lifesitenews.com/rss/global
+
+Christian Post (US)
+https://www.christianpost.com/feed.xml?category=us
+
+Christian Post (Politics)
+https://www.christianpost.com/feed.xml?category=politics
+
+Christian Post (Opinion)
+https://www.christianpost.com/feed.xml?category=opinion
+
+CNN (US)
+http://rss.cnn.com/rss/cnn_us.rss
+
+CNN (Top Stories)
+http://rss.cnn.com/rss/cnn_topstories.rss
+
+CNN (Politics)
+http://rss.cnn.com/rss/cnn_allpolitics.rss
+
+Fox Business
+http://feeds.foxbusiness.com/foxbusiness/latest
+
+CNBC Business
+https://www.cnbc.com/id/10001147/device/rss/rss.html
