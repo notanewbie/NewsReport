@@ -68,3 +68,52 @@ http://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml
 
 BBC - England
 http://feeds.bbci.co.uk/news/england/rss.xml
+
+Sky News - Home
+http://feeds.skynews.com/feeds/rss/home.xml
+
+Sky News - World
+http://feeds.skynews.com/feeds/rss/world.xml
+
+Sky News - US
+http://feeds.skynews.com/feeds/rss/us.xml
+
+Sky News - Entertainment
+http://feeds.skynews.com/feeds/rss/entertainment.xml
+
+The Atlantic - All
+https://www.theatlantic.com/feed/all/
+
+HuffPost Politics
+https://www.huffpost.com/section/politics/feed
+
+HuffPost Front Page
+https://www.huffpost.com/section/front-page/feed
+
+HuffPost Opinion
+https://www.huffpost.com/section/opinion/feed
+
+USA Today Top
+http://rssfeeds.usatoday.com/usatoday-newstopstories&x=1
+
+USA Today Life
+http://rssfeeds.usatoday.com/usatoday-lifetopstories&x=1
+
+USA Today Sports
+http://rssfeeds.usatoday.com/usatodaycomsports-topstories&x=1
+
+USA Today Tech
+http://rssfeeds.usatoday.com/usatoday-TechTopStories
+
+Reuters Top
+http://feeds.reuters.com/reuters/topNews
+
+Reuters US
+http://feeds.reuters.com/Reuters/domesticNews
+
+Politico Congress
+https://www.politico.com/rss/congress.xml
+
+Politico Politics
+https://www.politico.com/rss/politics08.xml
+
