@@ -62,3 +62,9 @@ http://feeds.foxbusiness.com/foxbusiness/latest
 
 CNBC Business
 https://www.cnbc.com/id/10001147/device/rss/rss.html
+
+BBC - US & Canada
+http://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml
+
+BBC - England
+http://feeds.bbci.co.uk/news/england/rss.xml
